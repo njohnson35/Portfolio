@@ -1,25 +1,28 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3120af31.css",
-    "main.js": "/portfolio/static/js/main.a71160ce.js",
+    "main.js": "/portfolio/static/js/main.22e80841.js",
     "static/media/NateFlix.png": "/portfolio/static/media/NateFlix.407eb8bb6c617d3623b4.png",
     "static/media/Travel.png": "/portfolio/static/media/Travel.b9d9bd4a0e58ac19b2a1.png",
     "static/media/Survey.png": "/portfolio/static/media/Survey.65b2038d7f8ed6c0480b.png",
+    "static/media/NateTube.png": "/portfolio/static/media/NateTube.90400629852a748aa0f0.png",
     "static/media/ColorGen.png": "/portfolio/static/media/ColorGen.4eb2c52d8330911878c6.png",
     "static/media/resume.pdf": "/portfolio/static/media/resume.a5822ffd7e8c6b682e07.pdf",
     "static/media/Weather.png": "/portfolio/static/media/Weather.b5447c01c246d716250f.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/ToDoList.png": "/portfolio/static/media/ToDoList.eb9a204fdc7fa9a237ec.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/logo.png": "/portfolio/static/media/logo.40ea561680fd7198911b.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.3120af31.css.map": "/portfolio/static/css/main.3120af31.css.map",
-    "main.a71160ce.js.map": "/portfolio/static/js/main.a71160ce.js.map"
+    "main.22e80841.js.map": "/portfolio/static/js/main.22e80841.js.map"
   },
   "entrypoints": [
     "static/css/main.3120af31.css",
-    "static/js/main.a71160ce.js"
+    "static/js/main.22e80841.js"
   ]
 }
