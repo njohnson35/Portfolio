@@ -4,7 +4,8 @@ import ToDoList from '../assets/ToDoList.png';
 import Weather from '../assets/Weather.png';
 import ColorGen from '../assets/ColorGen.png';
 import NateFlix from '../assets/NateFlix.png';
-import Survey from '../assets/Survey.png'
+import Survey from '../assets/Survey.png';
+import NateTube from '../assets/NateTube.png'
 
 const Work = () => {
   return (
@@ -30,6 +31,26 @@ const Work = () => {
                                 <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href="https://github.com/njohnson35/NateFlix">
+                                <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+                <div 
+                style={{backgroundImage: `url(${NateTube})` }} 
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    
+                    {/* HOver Effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                            React.JS Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://superb-melba-694c1f.netlify.app/">
+                                <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                            <a href="https://github.com/njohnson35/NateTube">
                                 <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
 
